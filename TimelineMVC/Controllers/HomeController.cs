@@ -11,6 +11,10 @@ namespace TimelineMVC.Controllers
         public ActionResult Index()
         {
             return View();
-        }        
+        }   
+        public ActionResult Timeline2()
+        {
+            return View();
+        }
     }
 }
